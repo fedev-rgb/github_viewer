@@ -61,7 +61,7 @@ A Vue 3 SPA that displays public repositories from the Node.js GitHub organizati
 - **JSDoc comments**:  
   Improve readability and IDE support with function docs.
 
-## 🛠 Dev Notes
+## Dev Notes
 
 - Long-press is handled via a reusable directive applied with event delegation.
 - Store logic is abstracted into a small composable for separation of concerns.
